@@ -1,0 +1,70 @@
+Variable;Tipo;TipoDatos;Descripción
+Accident_Index;No categórica;Textual;Identificador del accidente
+Location_Easting_OSGR;No categórica;Geográfico;Localización del accidente
+Location_Northing_OSGR;No categórica;Geográfico;Localización del accidente
+Longitude;No categórica;Geográfico;Coordenadas del accidente
+Latitude;No categórica;Geográfico;Coordenadas del accidente
+Police_Force;Categórica;Textual;Cuerpo de policía
+Accident_Severity;Categórica;Textual;Severidad del accidente
+Number_of_Vehicles;No categórica;Numérico;Nº de vehículos implicados
+Number_of_Casualties;No categórica;Numérico;Nº de víctimas
+Date;No categórica;Fecha;Fecha
+Day_of_Week;Categórica;Textual;Día de la semana
+Time;No categórica;Hora;Hora
+Local_Authority_(District);Categórica;Textual;Autoridad del distrito
+Local_Authority_(Highway);Categórica;Textual;Autoridad de la autopista
+1st_Road_Class;Categórica;Textual;Clase de la vía
+1st_Road_Number;No categórica;Textual;Número de la vía
+Road_Type;Categórica;Textual;Tipo de vía
+Speed_limit;Categórica;Textual;Límite de velocidad
+Junction_Detail;Categórica;Textual;Tipo de cruce
+Junction_Control;Categórica;Textual;Tipo de control en la vía
+2nd_Road_Class;Categórica;Textual;Tipo de vía
+2nd_Road_Number;No categórica;Textual;Número de vía
+Pedestrian_Crossing-Human_Control;Categórica;Textual;Había un control de paso de peatones?
+Pedestrian_Crossing-Physical_Facilities;Categórica;Textual;Había algún tipo de infraestructura para el paso de peatones
+Light_Conditions;Categórica;Textual;Condiciones lumínicas
+Weather_Conditions;Categórica;Textual;Condiciones meteorológicas
+Road_Surface_Conditions;Categórica;Textual;Condiciones de la vía
+Special_Conditions_at_Site;Categórica;Textual;Condiciones especiales en el lugar
+Carriageway_Hazards;Categórica;Textual;Había algún tipo de obstáculo en la vía?
+Urban_or_Rural_Area;Binaria;Textual;Rural o urbano?
+Did_Police_Officer_Attend_Scene_of_Accident;Categórica;Textual;Algún oficial de policía atendió el accidente?
+LSOA_of_Accident_Location;No categórica;Textual;Referencia
+Vehicle_Reference_x;Categórica;Numérico;Referencia del vehículo
+Casualty_Reference;Categórica;Numérico;Referencia de la víctima
+Casualty_Class;Categórica;Textual;Tipo de ocupante (víctima) 
+Sex_of_Casualty;Categórica;Textual;Género del la víctima
+Age_of_Casualty;No categórica;Numérico;Edad de la víctima
+Age_Band_of_Casualty;Categórica;Textual;Rango de edad de la víctima
+Casualty_Severity;Categórica;Textual;Severidad de la víctima
+Pedestrian_Location;Categórica;Textual;Situación del peatón
+Pedestrian_Movement;Categórica;Textual;Se movía el peatón?
+Car_Passenger;Categórica;Textual;Había pasajeros?
+Bus_or_Coach_Passenger;Categórica;Textual;Había pasajeros en el bus?
+Pedestrian_Road_Maintenance_Worker;Categórica;Textual;Había algún trabajador en la carretera?
+Casualty_Type;Categórica;Numérico;Tipo de víctima
+Casualty_Home_Area_Type;Categórica;Textual;Tipo de lugar
+Casualty_IMD_Decile;Categórica;Textual;Identificador de víctima
+Vehicle_Reference_y;Categórica;Numérico;Referencia del vehículo y
+Vehicle_Type;Categórica;Textual;Tipo de vehículo
+Towing_and_Articulation;Categórica;Textual;Tenía articulación?
+Vehicle_Manoeuvre;Categórica;Textual;Hizo algún tipo de maniobra
+Vehicle_Location-Restricted_Lane;Categórica;Textual;Estaba situado en algúna zona restringida?
+Junction_Location;Categórica;Textual;Cercanía a un cruce
+Skidding_and_Overturning;Categórica;Textual;Derrapó y dió vueltas de campana
+Hit_Object_in_Carriageway;Categórica;Textual;Chocó con algún objeto en la vía?
+Vehicle_Leaving_Carriageway;Categórica;Textual;Se marchó fuera de la vía?
+Hit_Object_off_Carriageway;Categórica;Textual;Chocó con algún objeto fuera de la vía?
+1st_Point_of_Impact;Categórica;Textual;Primer punto de impacto
+Was_Vehicle_Left_Hand_Drive?;Categórica;Numérico;El vehículo tenía el volante en la izquierda?
+Journey_Purpose_of_Driver;Categórica;Textual;Propósito del desplazamiento
+Sex_of_Driver;Categórica;Textual;Género del conductor
+Age_of_Driver;Categórica;Numérico;Edad del conductor
+Age_Band_of_Driver;Categórica;Textual;Rango de edad del conductor
+Engine_Capacity_(CC);No categórica;Numérico;Cilindrada
+Propulsion_Code;Categórica;Textual;Tipo de motor
+Age_of_Vehicle;No categórica;Numérico;Edad del vehículo
+Driver_IMD_Decile;Categórica;Numérico;Identificador del conductor
+Driver_Home_Area_Type;Categórica;Textual;Tipo de área
+Vehicle_IMD_Decile;Categórica;Numérico;Identificador del vehículo.
