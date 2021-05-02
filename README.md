@@ -8,7 +8,7 @@ En la carpeta **information** se pueden encontrar los dos documentos que proporc
 
 En el fichero **sample.csv** se encuentra una muestra del conjunto de datos ya preprocesado. Este se puede encontrar en el enlace de Google Drive: https://drive.google.com/drive/folders/1XFXWU_cI4li727TWT5AAwfTtVR-DU874?usp=sharing
 
-NOTA: Únicamente me dejaba dar permiso a correos de la UOC, por lo que si hay algún problema, por favor, envíame un correo e intento enviarlo de otra forma. El tamaño del archivo es de cerca de 1GB por lo que no podía subirlo a github.
+NOTA: Únicamente me dejaba dar permiso a correos de la UOC, por lo que si hay algún problema, por favor, envíame un correo e intento enviarlo de otra forma. El tamaño del archivo es de cerca de 1,5 GB por lo que no podía subirlo a github.
 
 
 
